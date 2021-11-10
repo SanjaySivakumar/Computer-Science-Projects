@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  text-align: center;
+  vertical-align: middle;
+  background-color: white;
+  font-family: 'Merriweather', serif;
+}
+
+.form_link {
+  margin-right: 10rem;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 72px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 2rem;
+  color: black;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 5px;
+  width: 87%;
+  height: 0;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.img {
+  backface-visibility: hidden;
+}
+
+.link {
+  margin-right: 1rem;
+  color: blue;
+}
+
+.link:hover {
+  color: red;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 2rem 2rem 2rem;
+  background-color: mediumvioletred;
+}
+
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.oof {
+  margin-top: 2rem;
+  text-align: center;
+  width: 80%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.desc {
+  margin-right: 10rem;
+  margin-bottom: 5rem;
+}
+
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.width {
+  max-width: 50%;
+}
+
+.create_account {
+  color: orange;
+}
+
+.top_section_index {
+  vertical-align: middle;
+}
+
+.description {
+  margin-left: 8rem;
+  margin-right: 8rem;
+  text-align: left;
+}
+
+label {
+    display: block;
+    font: 'Montserrat', sans-serif;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.usnm {
+  margin-top: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.pwd {
+  margin-top: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.butt {
+  margin-top: 1.5rem;
+}
+
+.thicc {
+  margin-left: 8rem;
+  text-align: left;
+}
